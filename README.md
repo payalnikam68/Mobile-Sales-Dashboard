@@ -3,6 +3,7 @@
 ## 💼 About Me
 🎓 Data Analytics Fresher passionate about transforming data into meaningful insights through interactive dashboards and data visualization.
 💡 Skilled in Power BI, SQL, Excel, Python, Power Query, and DAX, with hands-on experience building business intelligence dashboards and analyzing real-world datasets.
+
 🌱🌱 Currently learning advanced Power BI, SQL, Python, and Business Intelligence..
 
 ## 🛠 Technical Skills
@@ -17,10 +18,8 @@
 - 📊 Business Intelligence
 
  ## 📂 Featured Project
- 
 # 📱 Mobile Sales Dashboard
 An interactive Power BI dashboard developed to analyze mobile sales performance using real-world sales data.
-
 ### Key Features
 
 - 📈 Sales Performance Analysis
